@@ -12,6 +12,8 @@
     "skipLibCheck": true,
     "strict": true,
     "target": "ESNext",
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
   },
   "include": ["src"]
 }

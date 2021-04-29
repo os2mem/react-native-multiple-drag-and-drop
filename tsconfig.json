@@ -10,6 +10,10 @@
     "sourceMap": true,
     "strict": true,
     "target": "ESNext",
+    "allowJs": true,
+    "isolatedModules": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
   },
   "exclude": ["**/__tests__/*"],
   "include": ["src"]
